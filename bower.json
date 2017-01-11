@@ -1,0 +1,29 @@
+{
+  "name": "ng-flat-datepicker-angularjs-1-6",
+  "description": "Angular.js Datepicker built with Moment.js",
+  "main": [
+    "dist/ng-flat-datepicker.js",
+    "dist/ng-flat-datepicker.css"
+  ],
+  "authors": [
+    "Rémi Chanaud"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular.js",
+    "angular",
+    "datepicker",
+    "moment.js",
+    "moment",
+    "flat"
+  ],
+  "homepage": "https://github.com/wisemonks/ng-flat-datepicker",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
